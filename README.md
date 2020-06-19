@@ -1,0 +1,2 @@
+# maze
+A maze algorithm
