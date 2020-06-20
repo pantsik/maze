@@ -1,5 +1,6 @@
 # maze
 A search algorithm made in Python by Panos Tsikogiannopoulos  © 2020.
+
 Create a maze or load an existing one and let the explorer find the exit.
 White cells are empty rooms. Black cells are walls. The green cell is the starting point and the red cell is the finishing point.
 
