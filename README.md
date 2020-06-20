@@ -11,4 +11,5 @@ Basic exploration algorithm:
 
 The explorer only knows the rooms he has seen before. He can't see the exit, the rooms that he has never passed by or the maze boundaries.
 The explorer tries to find the exit in the fewest moves possible, given that he has no clue where to search first.
+
 If you have any suggestions for improvements, contact me at pantsik2@gmail.com
