@@ -23,7 +23,7 @@ I consider impossible for the explorer to run twice the maze's cells, i.e. steps
 """
 
 # Import modules
-from turtle import Turtle, Screen, setundobuffer, hideturtle, listen, onkeypress
+from turtle import Turtle, Screen, setundobuffer, hideturtle, listen, onkeypress 
 import numpy as np
 import time
 import tkinter as tk
