@@ -1,4 +1,4 @@
-# maze
+# Maze v.1.3
 A search algorithm made in Python by Panos Tsikogiannopoulos  © 2020.
 
 Create a maze or load an existing one and let the explorer find the exit.
