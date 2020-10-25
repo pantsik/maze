@@ -1,5 +1,6 @@
 # Maze
 A search algorithm made in Python by Panos Tsikogiannopoulos.
+
 Create a maze or load an existing one and let the explorer find the exit.
 
 User instructions:
