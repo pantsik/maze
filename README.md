@@ -20,3 +20,5 @@ The explorer only knows the rooms he has seen before. He can't see the exit, the
 The explorer tries to find the exit in the fewest moves possible, given that he has no clue where to search first.
 
 If you have any suggestions for improvements, contact me at pantsik2@gmail.com
+
+![Alt text](/maze screenshot.GIF?raw=true "Maze screenshot")
