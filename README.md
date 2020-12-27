@@ -21,4 +21,4 @@ The explorer tries to find the exit in the fewest moves possible, given that he 
 
 If you have any suggestions for improvements, contact me at pantsik2@gmail.com
 
-![Alt text](/maze screenshot.GIF?raw=true "Maze screenshot")
+![Alt text](/maze_screenshot.GIF?raw=true "Maze screenshot")
